@@ -1,0 +1,21 @@
+.Heading {
+	text-align: center;
+	background-color: red;
+	font-family: tahoma;
+	text-shadow: 0px 0px 10px black;
+}
+.Row {
+  display: flex;
+  justify-content: center;
+}
+
+.Item {
+  margin: 10px;
+  padding: 20px;
+  background-color: white;
+}
+#TODO Classes for each category
+img {
+	width: auto;
+	height: 200px;
+}
